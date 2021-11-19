@@ -1,0 +1,34 @@
+{
+    "name": "Spider-Man: Into the Spider-Verse",
+    "link": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse",
+    "Rating": "PG",
+    "Genre": [
+        " Kids",
+        "Adventure",
+        "Action",
+        "Animation",
+        "Fantasy",
+        "Comedy"
+    ],
+    "Language": [
+        "English"
+    ],
+    "director": [
+        "BobPersichetti",
+        "PeterRamsey",
+        "RodneyRothman"
+    ],
+    "Producer": [
+        "Avi",
+        "Arad,",
+        "Amy",
+        "Pascal,",
+        "Phil",
+        "Lord,",
+        "Chris",
+        "Miller,",
+        "Christina",
+        "Steinberg"
+    ],
+    "Runtime": 117
+}

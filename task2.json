@@ -1,0 +1,878 @@
+{
+    "2019": [
+        {
+            "rank": 1,
+            "rating": 97.0,
+            "title": "toy_story_4",
+            "reviews": "453",
+            "year": 2019,
+            "url": "https://www.rottentomatoes.comtoy_story_4"
+        },
+        {
+            "rank": 46,
+            "rating": 90.0,
+            "title": "how_to_train_your_dragon_the_hidden_world",
+            "reviews": "272",
+            "year": 2019,
+            "url": "https://www.rottentomatoes.comhow_to_train_your_dragon_the_hidden_world"
+        },
+        {
+            "rank": 63,
+            "rating": 96.0,
+            "title": "i_lost_my_body",
+            "reviews": "83",
+            "year": 2019,
+            "url": "https://www.rottentomatoes.comi_lost_my_body"
+        },
+        {
+            "rank": 75,
+            "rating": 84.0,
+            "title": "the_lego_movie_2_the_second_part",
+            "reviews": "300",
+            "year": 2019,
+            "url": "https://www.rottentomatoes.comthe_lego_movie_2_the_second_part"
+        },
+        {
+            "rank": 79,
+            "rating": 94.0,
+            "title": "klaus",
+            "reviews": "70",
+            "year": 2019,
+            "url": "https://www.rottentomatoes.comklaus"
+        },
+        {
+            "rank": 90,
+            "rating": 88.0,
+            "title": "missing_link_2019",
+            "reviews": "171",
+            "year": 2019,
+            "url": "https://www.rottentomatoes.commissing_link_2019"
+        }
+    ],
+    "2018": [
+        {
+            "rank": 2,
+            "rating": 97.0,
+            "title": "spider_man_into_the_spider_verse",
+            "reviews": "392",
+            "year": 2018,
+            "url": "https://www.rottentomatoes.comspider_man_into_the_spider_verse"
+        },
+        {
+            "rank": 6,
+            "rating": 93.0,
+            "title": "incredibles_2",
+            "reviews": "387",
+            "year": 2018,
+            "url": "https://www.rottentomatoes.comincredibles_2"
+        },
+        {
+            "rank": 8,
+            "rating": 99.0,
+            "title": "paddington_2",
+            "reviews": "247",
+            "year": 2018,
+            "url": "https://www.rottentomatoes.compaddington_2"
+        },
+        {
+            "rank": 18,
+            "rating": 90.0,
+            "title": "isle_of_dogs_2018",
+            "reviews": "367",
+            "year": 2018,
+            "url": "https://www.rottentomatoes.comisle_of_dogs_2018"
+        },
+        {
+            "rank": 57,
+            "rating": 88.0,
+            "title": "ralph_breaks_the_internet",
+            "reviews": "274",
+            "year": 2018,
+            "url": "https://www.rottentomatoes.comralph_breaks_the_internet"
+        },
+        {
+            "rank": 61,
+            "rating": 98.0,
+            "title": "liyana",
+            "reviews": "42",
+            "year": 2018,
+            "url": "https://www.rottentomatoes.comliyana"
+        },
+        {
+            "rank": 80,
+            "rating": 91.0,
+            "title": "teen_titans_go_to_the_movies",
+            "reviews": "133",
+            "year": 2018,
+            "url": "https://www.rottentomatoes.comteen_titans_go_to_the_movies"
+        }
+    ],
+    "2015": [
+        {
+            "rank": 3,
+            "rating": 98.0,
+            "title": "inside_out_2015",
+            "reviews": "379",
+            "year": 2015,
+            "url": "https://www.rottentomatoes.cominside_out_2015"
+        },
+        {
+            "rank": 21,
+            "rating": 99.0,
+            "title": "shaun_the_sheep_movie",
+            "reviews": "170",
+            "year": 2015,
+            "url": "https://www.rottentomatoes.comshaun_the_sheep_movie"
+        },
+        {
+            "rank": 33,
+            "rating": 92.0,
+            "title": "anomalisa",
+            "reviews": "277",
+            "year": 2015,
+            "url": "https://www.rottentomatoes.comanomalisa"
+        },
+        {
+            "rank": 92,
+            "rating": 93.0,
+            "title": "boy_and_the_world",
+            "reviews": "58",
+            "year": 2015,
+            "url": "https://www.rottentomatoes.comboy_and_the_world"
+        },
+        {
+            "rank": 93,
+            "rating": 87.0,
+            "title": "the_peanuts_movie",
+            "reviews": "197",
+            "year": 2015,
+            "url": "https://www.rottentomatoes.comthe_peanuts_movie"
+        },
+        {
+            "rank": 94,
+            "rating": 91.0,
+            "title": "when_marnie_was_there",
+            "reviews": "100",
+            "year": 2015,
+            "url": "https://www.rottentomatoes.comwhen_marnie_was_there"
+        }
+    ],
+    "2017": [
+        {
+            "rank": 4,
+            "rating": 97.0,
+            "title": "coco_2017",
+            "reviews": "353",
+            "year": 2017,
+            "url": "https://www.rottentomatoes.comcoco_2017"
+        },
+        {
+            "rank": 25,
+            "rating": 99.0,
+            "title": "my_life_as_a_zucchini",
+            "reviews": "137",
+            "year": 2017,
+            "url": "https://www.rottentomatoes.commy_life_as_a_zucchini"
+        },
+        {
+            "rank": 29,
+            "rating": 90.0,
+            "title": "the_lego_batman_movie",
+            "reviews": "313",
+            "year": 2017,
+            "url": "https://www.rottentomatoes.comthe_lego_batman_movie"
+        },
+        {
+            "rank": 39,
+            "rating": 98.0,
+            "title": "your_name_2017",
+            "reviews": "116",
+            "year": 2017,
+            "url": "https://www.rottentomatoes.comyour_name_2017"
+        },
+        {
+            "rank": 56,
+            "rating": 93.0,
+            "title": "the_red_turtle",
+            "reviews": "169",
+            "year": 2017,
+            "url": "https://www.rottentomatoes.comthe_red_turtle"
+        },
+        {
+            "rank": 64,
+            "rating": 95.0,
+            "title": "the_breadwinner",
+            "reviews": "105",
+            "year": 2017,
+            "url": "https://www.rottentomatoes.comthe_breadwinner"
+        }
+    ],
+    "1937": [
+        {
+            "rank": 5,
+            "rating": 98.0,
+            "title": "1048445-snow_white_and_the_seven_dwarfs",
+            "reviews": "54",
+            "year": 1937,
+            "url": "https://www.rottentomatoes.com1048445-snow_white_and_the_seven_dwarfs"
+        }
+    ],
+    "2016": [
+        {
+            "rank": 7,
+            "rating": 98.0,
+            "title": "zootopia",
+            "reviews": "298",
+            "year": 2016,
+            "url": "https://www.rottentomatoes.comzootopia"
+        },
+        {
+            "rank": 12,
+            "rating": 94.0,
+            "title": "finding_dory",
+            "reviews": "338",
+            "year": 2016,
+            "url": "https://www.rottentomatoes.comfinding_dory"
+        },
+        {
+            "rank": 16,
+            "rating": 95.0,
+            "title": "moana_2016",
+            "reviews": "283",
+            "year": 2016,
+            "url": "https://www.rottentomatoes.commoana_2016"
+        },
+        {
+            "rank": 19,
+            "rating": 97.0,
+            "title": "kubo_and_the_two_strings_2016",
+            "reviews": "226",
+            "year": 2016,
+            "url": "https://www.rottentomatoes.comkubo_and_the_two_strings_2016"
+        },
+        {
+            "rank": 41,
+            "rating": 99.0,
+            "title": "tower_2016",
+            "reviews": "100",
+            "year": 2016,
+            "url": "https://www.rottentomatoes.comtower_2016"
+        },
+        {
+            "rank": 58,
+            "rating": 98.0,
+            "title": "long_way_north",
+            "reviews": "54",
+            "year": 2016,
+            "url": "https://www.rottentomatoes.comlong_way_north"
+        }
+    ],
+    "2009": [
+        {
+            "rank": 9,
+            "rating": 98.0,
+            "title": "up",
+            "reviews": "298",
+            "year": 2009,
+            "url": "https://www.rottentomatoes.comup"
+        },
+        {
+            "rank": 50,
+            "rating": 93.0,
+            "title": "1197696-fantastic_mr_fox",
+            "reviews": "245",
+            "year": 2009,
+            "url": "https://www.rottentomatoes.com1197696-fantastic_mr_fox"
+        },
+        {
+            "rank": 59,
+            "rating": 90.0,
+            "title": "coraline",
+            "reviews": "271",
+            "year": 2009,
+            "url": "https://www.rottentomatoes.comcoraline"
+        },
+        {
+            "rank": 77,
+            "rating": 95.0,
+            "title": "1209767-mary_and_max",
+            "reviews": "65",
+            "year": 2009,
+            "url": "https://www.rottentomatoes.com1209767-mary_and_max"
+        },
+        {
+            "rank": 78,
+            "rating": 91.0,
+            "title": "ponyo",
+            "reviews": "172",
+            "year": 2009,
+            "url": "https://www.rottentomatoes.componyo"
+        }
+    ],
+    "2010": [
+        {
+            "rank": 10,
+            "rating": 98.0,
+            "title": "toy_story_3",
+            "reviews": "309",
+            "year": 2010,
+            "url": "https://www.rottentomatoes.comtoy_story_3"
+        },
+        {
+            "rank": 20,
+            "rating": 99.0,
+            "title": "how_to_train_your_dragon",
+            "reviews": "212",
+            "year": 2010,
+            "url": "https://www.rottentomatoes.comhow_to_train_your_dragon"
+        },
+        {
+            "rank": 82,
+            "rating": 89.0,
+            "title": "tangled",
+            "reviews": "227",
+            "year": 2010,
+            "url": "https://www.rottentomatoes.comtangled"
+        },
+        {
+            "rank": 100,
+            "rating": 90.0,
+            "title": "the_illusionist-2009",
+            "reviews": "134",
+            "year": 2010,
+            "url": "https://www.rottentomatoes.comthe_illusionist-2009"
+        }
+    ],
+    "1999": [
+        {
+            "rank": 11,
+            "rating": 100.0,
+            "title": "toy_story_2",
+            "reviews": "170",
+            "year": 1999,
+            "url": "https://www.rottentomatoes.comtoy_story_2"
+        },
+        {
+            "rank": 40,
+            "rating": 96.0,
+            "title": "iron_giant",
+            "reviews": "142",
+            "year": 1999,
+            "url": "https://www.rottentomatoes.comiron_giant"
+        },
+        {
+            "rank": 70,
+            "rating": 93.0,
+            "title": "princess_mononoke_1999",
+            "reviews": "112",
+            "year": 1999,
+            "url": "https://www.rottentomatoes.comprincess_mononoke_1999"
+        }
+    ],
+    "2003": [
+        {
+            "rank": 13,
+            "rating": 99.0,
+            "title": "finding_nemo",
+            "reviews": "269",
+            "year": 2003,
+            "url": "https://www.rottentomatoes.comfinding_nemo"
+        },
+        {
+            "rank": 68,
+            "rating": 94.0,
+            "title": "the_triplets_of_belleville",
+            "reviews": "150",
+            "year": 2003,
+            "url": "https://www.rottentomatoes.comthe_triplets_of_belleville"
+        }
+    ],
+    "1940": [
+        {
+            "rank": 14,
+            "rating": 100.0,
+            "title": "pinocchio_1940",
+            "reviews": "56",
+            "year": 1940,
+            "url": "https://www.rottentomatoes.compinocchio_1940"
+        },
+        {
+            "rank": 42,
+            "rating": 95.0,
+            "title": "fantasia",
+            "reviews": "56",
+            "year": 1940,
+            "url": "https://www.rottentomatoes.comfantasia"
+        }
+    ],
+    "2014": [
+        {
+            "rank": 15,
+            "rating": 96.0,
+            "title": "the_lego_movie",
+            "reviews": "253",
+            "year": 2014,
+            "url": "https://www.rottentomatoes.comthe_lego_movie"
+        },
+        {
+            "rank": 38,
+            "rating": 99.0,
+            "title": "song_of_the_sea_2014",
+            "reviews": "97",
+            "year": 2014,
+            "url": "https://www.rottentomatoes.comsong_of_the_sea_2014"
+        },
+        {
+            "rank": 52,
+            "rating": 98.0,
+            "title": "ernest_and_celestine",
+            "reviews": "81",
+            "year": 2014,
+            "url": "https://www.rottentomatoes.comernest_and_celestine"
+        },
+        {
+            "rank": 60,
+            "rating": 90.0,
+            "title": "big_hero_6",
+            "reviews": "227",
+            "year": 2014,
+            "url": "https://www.rottentomatoes.combig_hero_6"
+        },
+        {
+            "rank": 67,
+            "rating": 91.0,
+            "title": "how_to_train_your_dragon_2",
+            "reviews": "188",
+            "year": 2014,
+            "url": "https://www.rottentomatoes.comhow_to_train_your_dragon_2"
+        },
+        {
+            "rank": 89,
+            "rating": 88.0,
+            "title": "the_wind_rises",
+            "reviews": "178",
+            "year": 2014,
+            "url": "https://www.rottentomatoes.comthe_wind_rises"
+        }
+    ],
+    "1995": [
+        {
+            "rank": 17,
+            "rating": 100.0,
+            "title": "toy_story",
+            "reviews": "92",
+            "year": 1995,
+            "url": "https://www.rottentomatoes.comtoy_story"
+        }
+    ],
+    "2008": [
+        {
+            "rank": 22,
+            "rating": 95.0,
+            "title": "wall_e",
+            "reviews": "260",
+            "year": 2008,
+            "url": "https://www.rottentomatoes.comwall_e"
+        },
+        {
+            "rank": 45,
+            "rating": 96.0,
+            "title": "waltz_with_bashir",
+            "reviews": "153",
+            "year": 2008,
+            "url": "https://www.rottentomatoes.comwaltz_with_bashir"
+        },
+        {
+            "rank": 81,
+            "rating": 89.0,
+            "title": "bolt",
+            "reviews": "189",
+            "year": 2008,
+            "url": "https://www.rottentomatoes.combolt"
+        },
+        {
+            "rank": 96,
+            "rating": 87.0,
+            "title": "kung_fu_panda",
+            "reviews": "190",
+            "year": 2008,
+            "url": "https://www.rottentomatoes.comkung_fu_panda"
+        }
+    ],
+    "1941": [
+        {
+            "rank": 23,
+            "rating": 98.0,
+            "title": "dumbo",
+            "reviews": "43",
+            "year": 1941,
+            "url": "https://www.rottentomatoes.comdumbo"
+        }
+    ],
+    "2007": [
+        {
+            "rank": 24,
+            "rating": 96.0,
+            "title": "ratatouille",
+            "reviews": "251",
+            "year": 2007,
+            "url": "https://www.rottentomatoes.comratatouille"
+        },
+        {
+            "rank": 47,
+            "rating": 96.0,
+            "title": "persepolis",
+            "reviews": "162",
+            "year": 2007,
+            "url": "https://www.rottentomatoes.compersepolis"
+        },
+        {
+            "rank": 91,
+            "rating": 87.0,
+            "title": "simpsons_movie",
+            "reviews": "223",
+            "year": 2007,
+            "url": "https://www.rottentomatoes.comsimpsons_movie"
+        }
+    ],
+    "2004": [
+        {
+            "rank": 26,
+            "rating": 97.0,
+            "title": "incredibles",
+            "reviews": "248",
+            "year": 2004,
+            "url": "https://www.rottentomatoes.comincredibles"
+        },
+        {
+            "rank": 83,
+            "rating": 89.0,
+            "title": "shrek_2",
+            "reviews": "237",
+            "year": 2004,
+            "url": "https://www.rottentomatoes.comshrek_2"
+        }
+    ],
+    "1991": [
+        {
+            "rank": 27,
+            "rating": 100.0,
+            "title": "only_yesterday_1991",
+            "reviews": "58",
+            "year": 1991,
+            "url": "https://www.rottentomatoes.comonly_yesterday_1991"
+        },
+        {
+            "rank": 31,
+            "rating": 94.0,
+            "title": "beauty_and_the_beast_1991",
+            "reviews": "118",
+            "year": 1991,
+            "url": "https://www.rottentomatoes.combeauty_and_the_beast_1991"
+        }
+    ],
+    "1961": [
+        {
+            "rank": 28,
+            "rating": 98.0,
+            "title": "101_dalmatians",
+            "reviews": "52",
+            "year": 1961,
+            "url": "https://www.rottentomatoes.com101_dalmatians"
+        }
+    ],
+    "2000": [
+        {
+            "rank": 30,
+            "rating": 97.0,
+            "title": "chicken_run",
+            "reviews": "173",
+            "year": 2000,
+            "url": "https://www.rottentomatoes.comchicken_run"
+        }
+    ],
+    "1993": [
+        {
+            "rank": 32,
+            "rating": 95.0,
+            "title": "nightmare_before_christmas",
+            "reviews": "100",
+            "year": 1993,
+            "url": "https://www.rottentomatoes.comnightmare_before_christmas"
+        }
+    ],
+    "2001": [
+        {
+            "rank": 34,
+            "rating": 96.0,
+            "title": "monsters_inc",
+            "reviews": "198",
+            "year": 2001,
+            "url": "https://www.rottentomatoes.commonsters_inc"
+        },
+        {
+            "rank": 86,
+            "rating": 88.0,
+            "title": "shrek",
+            "reviews": "209",
+            "year": 2001,
+            "url": "https://www.rottentomatoes.comshrek"
+        },
+        {
+            "rank": 95,
+            "rating": 93.0,
+            "title": "millennium_actress_2001",
+            "reviews": "57",
+            "year": 2001,
+            "url": "https://www.rottentomatoes.commillennium_actress_2001"
+        }
+    ],
+    "2020": [
+        {
+            "rank": 35,
+            "rating": 88.0,
+            "title": "onward",
+            "reviews": "337",
+            "year": 2020,
+            "url": "https://www.rottentomatoes.comonward"
+        },
+        {
+            "rank": 65,
+            "rating": 96.0,
+            "title": "a_shaun_the_sheep_movie_farmageddon",
+            "reviews": "78",
+            "year": 2020,
+            "url": "https://www.rottentomatoes.coma_shaun_the_sheep_movie_farmageddon"
+        }
+    ],
+    "2002": [
+        {
+            "rank": 36,
+            "rating": 97.0,
+            "title": "spirited_away",
+            "reviews": "195",
+            "year": 2002,
+            "url": "https://www.rottentomatoes.comspirited_away"
+        }
+    ],
+    "1988": [
+        {
+            "rank": 37,
+            "rating": 100.0,
+            "title": "grave_of_the_fireflies",
+            "reviews": "40",
+            "year": 1988,
+            "url": "https://www.rottentomatoes.comgrave_of_the_fireflies"
+        },
+        {
+            "rank": 44,
+            "rating": 97.0,
+            "title": "who_framed_roger_rabbit",
+            "reviews": "66",
+            "year": 1988,
+            "url": "https://www.rottentomatoes.comwho_framed_roger_rabbit"
+        },
+        {
+            "rank": 71,
+            "rating": 94.0,
+            "title": "my_neighbor_totoro",
+            "reviews": "54",
+            "year": 1988,
+            "url": "https://www.rottentomatoes.commy_neighbor_totoro"
+        }
+    ],
+    "1994": [
+        {
+            "rank": 43,
+            "rating": 93.0,
+            "title": "the_lion_king",
+            "reviews": "130",
+            "year": 1994,
+            "url": "https://www.rottentomatoes.comthe_lion_king"
+        }
+    ],
+    "1968": [
+        {
+            "rank": 48,
+            "rating": 95.0,
+            "title": "beatles_the_yellow_submarine",
+            "reviews": "60",
+            "year": 1968,
+            "url": "https://www.rottentomatoes.combeatles_the_yellow_submarine"
+        }
+    ],
+    "2005": [
+        {
+            "rank": 49,
+            "rating": 95.0,
+            "title": "wallace_and_gromit_curse_of_the_wererabbit",
+            "reviews": "184",
+            "year": 2005,
+            "url": "https://www.rottentomatoes.comwallace_and_gromit_curse_of_the_wererabbit"
+        }
+    ],
+    "1989": [
+        {
+            "rank": 51,
+            "rating": 98.0,
+            "title": "kikis_delivery_service",
+            "reviews": "42",
+            "year": 1989,
+            "url": "https://www.rottentomatoes.comkikis_delivery_service"
+        },
+        {
+            "rank": 66,
+            "rating": 93.0,
+            "title": "the_little_mermaid_1989",
+            "reviews": "71",
+            "year": 1989,
+            "url": "https://www.rottentomatoes.comthe_little_mermaid_1989"
+        }
+    ],
+    "2012": [
+        {
+            "rank": 53,
+            "rating": 95.0,
+            "title": "the_secret_world_of_arrietty",
+            "reviews": "152",
+            "year": 2012,
+            "url": "https://www.rottentomatoes.comthe_secret_world_of_arrietty"
+        },
+        {
+            "rank": 84,
+            "rating": 89.0,
+            "title": "paranorman",
+            "reviews": "186",
+            "year": 2012,
+            "url": "https://www.rottentomatoes.comparanorman"
+        },
+        {
+            "rank": 85,
+            "rating": 87.0,
+            "title": "frankenweenie_2012",
+            "reviews": "222",
+            "year": 2012,
+            "url": "https://www.rottentomatoes.comfrankenweenie_2012"
+        },
+        {
+            "rank": 97,
+            "rating": 87.0,
+            "title": "wreck_it_ralph",
+            "reviews": "189",
+            "year": 2012,
+            "url": "https://www.rottentomatoes.comwreck_it_ralph"
+        }
+    ],
+    "1992": [
+        {
+            "rank": 54,
+            "rating": 95.0,
+            "title": "disneys_aladdin",
+            "reviews": "74",
+            "year": 1992,
+            "url": "https://www.rottentomatoes.comdisneys_aladdin"
+        }
+    ],
+    "2013": [
+        {
+            "rank": 55,
+            "rating": 90.0,
+            "title": "frozen_2013",
+            "reviews": "250",
+            "year": 2013,
+            "url": "https://www.rottentomatoes.comfrozen_2013"
+        }
+    ],
+    "1996": [
+        {
+            "rank": 62,
+            "rating": 96.0,
+            "title": "ghost_in_the_shell",
+            "reviews": "57",
+            "year": 1996,
+            "url": "https://www.rottentomatoes.comghost_in_the_shell"
+        },
+        {
+            "rank": 88,
+            "rating": 91.0,
+            "title": "james_and_the_giant_peach",
+            "reviews": "74",
+            "year": 1996,
+            "url": "https://www.rottentomatoes.comjames_and_the_giant_peach"
+        }
+    ],
+    "1955": [
+        {
+            "rank": 69,
+            "rating": 93.0,
+            "title": "lady_and_the_tramp",
+            "reviews": "43",
+            "year": 1955,
+            "url": "https://www.rottentomatoes.comlady_and_the_tramp"
+        }
+    ],
+    "1942": [
+        {
+            "rank": 72,
+            "rating": 90.0,
+            "title": "bambi",
+            "reviews": "52",
+            "year": 1942,
+            "url": "https://www.rottentomatoes.combambi"
+        }
+    ],
+    "2011": [
+        {
+            "rank": 73,
+            "rating": 92.0,
+            "title": "arthur_christmas",
+            "reviews": "169",
+            "year": 2011,
+            "url": "https://www.rottentomatoes.comarthur_christmas"
+        },
+        {
+            "rank": 87,
+            "rating": 88.0,
+            "title": "rango",
+            "reviews": "222",
+            "year": 2011,
+            "url": "https://www.rottentomatoes.comrango"
+        },
+        {
+            "rank": 99,
+            "rating": 90.0,
+            "title": "winnie_the_pooh_2011",
+            "reviews": "131",
+            "year": 2011,
+            "url": "https://www.rottentomatoes.comwinnie_the_pooh_2011"
+        }
+    ],
+    "1998": [
+        {
+            "rank": 74,
+            "rating": 92.0,
+            "title": "antz",
+            "reviews": "93",
+            "year": 1998,
+            "url": "https://www.rottentomatoes.comantz"
+        },
+        {
+            "rank": 76,
+            "rating": 92.0,
+            "title": "bugs_life",
+            "reviews": "88",
+            "year": 1998,
+            "url": "https://www.rottentomatoes.combugs_life"
+        }
+    ],
+    "1959": [
+        {
+            "rank": 98,
+            "rating": 89.0,
+            "title": "1019187-sleeping_beauty",
+            "reviews": "46",
+            "year": 1959,
+            "url": "https://www.rottentomatoes.com1019187-sleeping_beauty"
+        }
+    ]
+}
